@@ -1,0 +1,2 @@
+# WEB_FRAMEWORK_PRAKTIKUM2
+Konsep MVC pada Framework CI3
